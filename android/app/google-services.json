@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "129741557189",
+    "project_id": "profile-job-vacancy",
+    "storage_bucket": "profile-job-vacancy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129741557189:android:01e8175635f401cfcd4fac",
+        "android_client_info": {
+          "package_name": "com.example.wecode_profile_job_vacancy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129741557189-mv4b7lfgk1r8d0qr81q4slhbmlbp6l9j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzCsogy4q4oiNnYHITiF5ah7z6KXFYEkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129741557189-mv4b7lfgk1r8d0qr81q4slhbmlbp6l9j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129741557189-ad5tt9lcff6anp96spk37b48gtp8h4hq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.wecodeProfileJobVacancy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
